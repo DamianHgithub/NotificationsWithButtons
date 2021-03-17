@@ -4,7 +4,6 @@ import android.app.Application
 import android.app.NotificationChannel
 import android.app.NotificationManager
 import android.os.Build
-import androidx.core.app.NotificationCompat
 import org.koin.android.ext.koin.androidContext
 import org.koin.core.context.startKoin
 
